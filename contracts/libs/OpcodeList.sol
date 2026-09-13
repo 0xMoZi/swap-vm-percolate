@@ -60,7 +60,7 @@ enum Opcode {
     /* 24 */ OnlyTakerTokenBalanceGte,
     /* 25 */ OnlyTakerTokenSupplyShareGte,
     /* 26 */ OnlyTxOriginTokenBalanceNonZero,
-    /* 27 */ _27,
+    /* 27 */ PercolateGate,
     /* 28 */ _28,
     /* 29 */ _29,
     /* 2a */ _2a,
