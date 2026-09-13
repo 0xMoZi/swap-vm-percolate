@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.30;
+// SPDX-License-Identifier: LicenseRef-Degensoft-SwapVM-1.1
+pragma solidity ^0.8.27;
 
 import { ISwapVM } from "./interfaces/ISwapVM.sol";
 import { MakerTraitsLib, MakerTraits } from "./libs/MakerTraits.sol";
